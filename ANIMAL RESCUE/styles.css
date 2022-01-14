@@ -18,18 +18,18 @@ nav li a:hover{
     background-color: antiquewhite;
 }
 .styleimages{
-    background-image: url("images/animal6.jpg");
-    height: 500px;
+    background-image: url("images/animal8.jpg");
+    height: 1000px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     position: relative;
 }
 .artexts{
     text-align: center;
     color: #393E46;
     font-size: 20px;
-    top: 50%;
-    left: 50%;
+    top: 50px;
+    left: 50px;
     transform: translate(-50% -50%);
     position: absolute;
 
