@@ -1,7 +1,16 @@
 .links{
     list-style-type: none ;
     background-color: honeydew;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
+}
+nav li {
+    float: left;
+}
+nav li a{
+    padding:15px 15px;
+    text-decoration: none;
+    color: #393E46;
+    display: block;
 }
