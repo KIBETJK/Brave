@@ -14,3 +14,26 @@ nav li a{
     color: #393E46;
     display: block;
 }
+nav li a:hover{
+    background-color: antiquewhite;
+}
+.styleimages{
+    background-image: url("images/animal6.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.artexts{
+    text-align: center;
+    color: #393E46;
+    font-size: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+    position: absolute;
+
+}
+.arbutton{
+
+}
