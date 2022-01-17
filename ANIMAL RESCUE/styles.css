@@ -53,3 +53,6 @@ new,section{
 h2,h3{
     text-align: center;
 }
+#gallery{
+    border-radius: 50%;
+}
