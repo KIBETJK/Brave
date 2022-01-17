@@ -18,8 +18,8 @@ nav li a:hover{
     background-color: antiquewhite;
 }
 .styleimages{
-    background-image: url("images/animal8.jpg");
-    height: 1000px;
+    background-image: url("images/animal13.jpg");
+    height: 500px;
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
@@ -30,10 +30,24 @@ nav li a:hover{
     font-size: 20px;
     top: 50px;
     left: 50px;
-    transform: translate(-50% -50%);
+
     position: absolute;
 
 }
 .arbutton{
+    padding: 2px;
 
+}
+new,section{
+    margin:3px;
+    padding:2px;
+}
+.center{
+    text-align: center;
+}
+.flexbox{
+    display: flex;
+}
+h2,h3{
+    text-align: center;
 }
