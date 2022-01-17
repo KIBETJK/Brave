@@ -47,6 +47,8 @@ new,section{
 }
 .flexbox{
     display: flex;
+    margin:10px;
+    padding:10px;
 }
 h2,h3{
     text-align: center;
