@@ -83,13 +83,13 @@ input[type=email], input[type=password] {
 
 /* Set a style for all buttons */
 button {
-    background-color: #04AA6D;
+    background-color: #0a53be;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: 10%;
 }
 
 /* Add a hover effect for buttons */
@@ -112,8 +112,8 @@ button:hover {
 
 /* Avatar image */
 img.avatar {
-    width: 40%;
-    border-radius: 50%;
+    width: 10%;
+    border-radius: 10%;
 }
 
 /* Add padding to containers */
@@ -123,6 +123,7 @@ img.avatar {
 
 /* The "Forgot password" text */
 span.psw {
+    margin-left: 50%;
     float: right;
     padding-top: 16px;
 }
@@ -136,4 +137,8 @@ span.psw {
     .cancelbtn {
         width: 100%;
     }
+}
+.tab{
+    margin-left: 50%;
+    border-radius: 12px;
 }
