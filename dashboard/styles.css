@@ -71,7 +71,7 @@ footer{
 
 
 /* Full-width inputs */
-input[type=email], input[type=password] {
+input[type=email], input[type=password], input[type=text]{
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -96,7 +96,7 @@ button:hover {
     opacity: 0.8;
 }
 
-/* Extra style for the cancel button (red) */
+
 
 
 /* Center the avatar image inside this container */
@@ -139,6 +139,11 @@ span.psw {
     display: flex;
 }
 .login-form{
+    width: 1000px;
+    margin: 30px auto;
+}
+/* Signup Form */
+.signup-form{
     width: 1000px;
     margin: 30px auto;
 }
