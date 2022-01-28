@@ -82,7 +82,7 @@ input[type=email], input[type=password], input[type=text]{
 
 /* Set a style for all buttons */
 button {
-    background-color: #0a53be;
+    background-color: #393E46;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -139,11 +139,13 @@ span.psw {
     display: flex;
 }
 .login-form{
+    background-color: #0d6efd;
     width: 1000px;
     margin: 30px auto;
 }
 /* Signup Form */
 .signup-form{
+    background-color: #0d6efd;
     width: 1000px;
     margin: 30px auto;
 }
